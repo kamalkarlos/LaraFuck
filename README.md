@@ -1,2 +1,2 @@
 # LaraFuck
-#_______________Enjoy :)
+#_______________script laravel auto vuln
